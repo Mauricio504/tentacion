@@ -132,7 +132,7 @@ let mess = {
 
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
-+ 'FN:Meu criador^~^\n' 
++ 'FN:EDAR🇭🇳504\n' 
 + 'ORG:Ian;\n' 
 + 'TEL;type=CELL;type=VOICE;waid=50498798682:+504 9879-8682\n' 
 + 'END:VCARD'
