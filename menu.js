@@ -1,5 +1,5 @@
 const help = (p, date, user, wame) => {
-return `┏🔥࿗ EDAR-BOT ULTIMATE ࿗🔥┓
+return `┏🔥࿗ JEIRONY-BOT ULTIMATE ࿗🔥┓
 ║                                                           
 ║ _*🕐FECHA Y HORA: ${date} 🕐*_
 ║ _*🙂 USUARIO: ${user} 🙂*_
