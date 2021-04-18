@@ -1,9 +1,9 @@
 const welcome = (number, groupname) => {
-    return `*_🌚Hola🍭 @${number} Te damos la Bienvenida a ${groupname} Espero y sea de su agrado🧘🏻‍♂️ ,contamos con su apoyo🔥 lee la descripción para evitar ser eliminado (🐤DIVIÉRTETE✨)_*`
+    return `*_🌚Hola🍭 guap@ @${number} Te damos la Bienvenida de todo corazon a ${groupname} Espero y sea de su agrado🧘🏻‍♂️ ,contamos con su apoyo🔥 lee la descripción para evitar ser eliminado (🐤DIVIÉRTETE✨)_*`
 }
 exports.welcome = welcome
 
 const bye = (number) => {
-    return `_😹Finalmente la carga del grupo se redujo en -1 *''Adiós''* @${number} No te extrañaremos😆, el próximo en salir será kuakiado ok.no_`
+    return `_😹Cuidate bro, que tengas un buen viaje, que te atropelle un carrito no mentiras  *''Adiós''* @${number} No te extrañaremos😆, no mentiras algunos si otros no, cuidate mucho bro _`
 }
 exports.bye = bye
