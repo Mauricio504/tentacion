@@ -1,7 +1,7 @@
-const ownerNumber = ["50498798682@s.whatsapp.net"] 
+const ownerNumber = ["573152139466@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '50498798682' 
+const OriginalOwner = '573152139466' 
 // mude para seu numero
 
 const gimagenotregister = true
@@ -31,7 +31,7 @@ const menumsgimg = (numero, groupname) => {
 const apikeyimgbb = 'api key do imgbb, crie sua conta e pegue a key'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = '𝐁𝐑𝐈𝐙𝐀𝐒 𝐁𝐎𝐓\n' 
+const cr = 'JEIRONY-BOT\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
